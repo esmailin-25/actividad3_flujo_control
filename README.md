@@ -32,9 +32,11 @@ Luego muestra los resultados organizados en forma de tabla indicando:
 - PSeInt
 
 ## Ejecución del Programa
+<p aling="center">
 <img src="https://github.com/user-attachments/assets/15ed564d-c6b9-4897-88ee-0654a8ac3497" width="600">
+</p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/adf5b636-d07c-41c4-872f-a1c76c453074" width="700">
+  <img src="https://github.com/user-attachments/assets/adf5b636-d07c-41c4-872f-a1c76c453074" width="600">
 </p>
 
 ## Resultado
